@@ -1,1 +1,2 @@
-This is Journey to Software Engineering.
+##Introdution to ALX and Holberton pre-course
+  Software Engineering for everyone.
