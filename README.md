@@ -1,2 +1,1 @@
-## Introdution to ALX and Holberton pre-course
-  Software Engineering for everyone.
+## Pre-course for introduction to ALX and Holberton Software Engineering School.
